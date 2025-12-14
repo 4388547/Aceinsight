@@ -1,0 +1,5 @@
+{
+  "name": "AceInsight: AI 网球解说",
+  "description": "智能网球分析助手，基于 Gemini 2.5，为您提供多种风格的比赛视频解说。",
+  "requestFramePermissions": []
+}
